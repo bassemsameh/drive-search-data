@@ -1,0 +1,50 @@
+{
+  "parts": 11,
+  "total": 279573,
+  "files": [
+    {
+      "file": "data.part001.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part002.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part003.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part004.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part005.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part006.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part007.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part008.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part009.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part010.json",
+      "count": 25416
+    },
+    {
+      "file": "data.part011.json",
+      "count": 25413
+    }
+  ]
+}
